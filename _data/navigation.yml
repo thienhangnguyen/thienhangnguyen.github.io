@@ -1,0 +1,10 @@
+# Navigation links for the sidebar
+
+- name: Home
+  href: "#home"
+
+- name: Papers
+  href: "#publications"
+
+- name: Writings
+  href: "#writings"

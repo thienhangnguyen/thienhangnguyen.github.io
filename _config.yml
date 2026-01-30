@@ -1,0 +1,9 @@
+# Site settings
+title: Thien Hang Nguyen
+name: Thien Hang Nguyen
+email: thienhn97 at gmail dot com
+google_scholar: https://scholar.google.com/citations?user=FYAOS4gAAAAJ
+google_analytics: G-W78RSG8D9F
+
+# Build settings
+markdown: kramdown

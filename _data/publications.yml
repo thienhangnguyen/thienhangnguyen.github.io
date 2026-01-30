@@ -1,0 +1,49 @@
+# Publications listed in reverse chronological order (newest first)
+# The template renders these in an ordered list with reversed numbering
+
+- title: "Lean and Mean Adaptive Optimization via Subset-Norm and Subspace-Momentum with Convergence Guarantees"
+  url: "https://arxiv.org/abs/2411.07120"
+  authors: "Thien Hang Nguyen and Huy Le Nguyen."
+  venue: "International Conference on Machine Learning, Vancouver. 2025."
+
+- title: "Memory Efficient Adaptive Stochastic Optimization via Subset-Norm"
+  url: "https://openreview.net/pdf?id=PXldaPQsK8"
+  authors: "Thien Hang Nguyen and Huy Le Nguyen."
+  venue: "Optimization for Machine Learning Workshop at NeurIPS, Vancouver, 2024."
+
+- title: "Improved Convergence in High Probability of Clipped Gradient Methods with Heavy Tailed Noise"
+  url: "https://openreview.net/pdf?id=h1FhXVM0cB"
+  authors: "Duy Nguyen*, Thien Nguyen*, Alina Ene, and Huy Nguyen."
+  venue: "Neural Information Processing Systems, New Orleans. 2023."
+  note: "Spotlight"
+
+- title: "High Probability Convergence of Clipped-SGD Under Heavy-tailed Noise"
+  url: "https://arxiv.org/pdf/2302.05437.pdf"
+  authors: "Duy Nguyen*, Thien Nguyen*, Alina Ene, and Huy Nguyen."
+  venue: "Preprint. 2023."
+
+- title: "High Probability Convergence of Stochastic Gradient Methods"
+  url: "https://arxiv.org/pdf/2302.14843.pdf"
+  authors: "Zijian Liu*, Duy Nguyen*, Thien Nguyen*, Alina Ene, and Huy Nguyen."
+  venue: "International Conference on Machine Learning, Honolulu. 2023."
+
+- title: "META-STORM: Generalized Fully-Adaptive Variance Reduced SGD for Unbounded Function"
+  url: "https://arxiv.org/pdf/2209.14853.pdf"
+  authors: "Zijian Liu*, Duy Nguyen*, Thien Nguyen*, Alina Ene, and Huy Nguyen."
+  venue: "Preprint. 2023."
+
+- title: "Improved Group Robustness via Classifier Retraining on Independent Splits"
+  url: "https://arxiv.org/pdf/2204.09583.pdf"
+  authors: "Thien Nguyen, Hongyang Zhang, and Huy Le Nguyen."
+  venue: "Transactions on Machine Learning Research. 2023."
+
+- title: "Structural Equivalence in Subgraph Matching"
+  url: "https://arxiv.org/abs/2301.03161"
+  authors: "Dominic Yang, Yurun Ge, Thien Nguyen, Denali Molitor, Jacob D. Moorman, and Andrea L. Bertozzi."
+  venue: "IEEE Transactions on Network Science and Engineering. 2022."
+
+- title: "Applications of Structural Equivalence to Subgraph Isomorphism on Multichannel Multigraphs"
+  url: "https://www.math.ucla.edu/~bertozzi/papers/ThienNguyen-UCLA-Final-BIGDATA2019.pdf"
+  authors: "Thien Nguyen, Dominic Yang, Yurun Ge, Hao Li, and Andrea Bertozzi."
+  venue: "IEEE Big Data Conference, Los Angeles. Dec 9, 2019."
+  note: "Oral Presentation"

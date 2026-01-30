@@ -1,0 +1,21 @@
+<nav class="w3-sidebar w3-bar-block w3-white w3-collapse w3-top" style="z-index:3;width:270px" id="mySidebar">
+  <div class="w3-container w3-display-container w3-padding-16 w3-margin-top">
+    <i onclick="w3_close()" class="fa fa-remove w3-hide-large w3-button w3-display-topright"></i>
+    <h3 class="w3-wide"><b>{{ site.name }}</b></h3>
+  </div>
+
+  <div class="w3-container w3-display-container w3-padding-8">
+    <img src="{{ '/profile.jpg' | relative_url }}" class="w3-round" alt="" width="125px" style="float:left">
+  </div>
+
+  <div class="w3-container w3-display-container w3-padding-16">
+    <p class="w3-medium"> {{ site.email }} </p>
+    <a href="{{ site.google_scholar }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+  </div>
+
+  <div class="w3-padding-32 w3-large w3-text-grey" style="font-weight:bold">
+    {% for item in site.data.navigation %}
+    <a href="{{ item.href }}" class="w3-bar-item w3-button">{{ item.name }}</a>
+    {% endfor %}
+  </div>
+</nav>
