@@ -1,10 +1,18 @@
 # Publications listed in reverse chronological order (newest first)
 # The template renders these in an ordered list with reversed numbering
 
+- title: "BLITZRANK: Principled Zero-shot Ranking Agents with Tournament Graphs"
+  url: "https://arxiv.org/abs/2602.05448"
+  authors: "Sheshansh Agrawal*, Thien Hang Nguyen*, and Douwe Kiela."
+  venue: "In Submission. 2026."
+  code_url: "https://github.com/ContextualAI/BlitzRank"
+  website_url: "https://blitzrank.ai/"
+
 - title: "Lean and Mean Adaptive Optimization via Subset-Norm and Subspace-Momentum with Convergence Guarantees"
   url: "https://arxiv.org/abs/2411.07120"
   authors: "Thien Hang Nguyen and Huy Le Nguyen."
   venue: "International Conference on Machine Learning, Vancouver. 2025."
+  code_url: "https://github.com/timmytonga/sn-sm"
 
 - title: "Memory Efficient Adaptive Stochastic Optimization via Subset-Norm"
   url: "https://openreview.net/pdf?id=PXldaPQsK8"
@@ -36,6 +44,7 @@
   url: "https://arxiv.org/pdf/2204.09583.pdf"
   authors: "Thien Nguyen, Hongyang Zhang, and Huy Le Nguyen."
   venue: "Transactions on Machine Learning Research. 2023."
+  code_url: "https://github.com/timmytonga/crois"
 
 - title: "Structural Equivalence in Subgraph Matching"
   url: "https://arxiv.org/abs/2301.03161"

@@ -131,6 +131,20 @@ ol li, ul li {
   font-weight: 600;
 }
 
+.publinks {
+  font-size: 13px;
+  margin-top: 0.25rem;
+}
+
+.publinks a {
+  color: var(--accent);
+  margin-right: 0.5rem;
+}
+
+.publinks a:hover {
+  text-decoration: underline;
+}
+
 .inttitle {
   font-weight: 600;
   font-size: 15px;

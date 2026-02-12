@@ -63,6 +63,12 @@ layout: default
             <div class="pubauthor">{{ pub.authors }}</div>
             <div class="pubcite">{{ pub.venue }}{% if pub.note %} <b>[{{ pub.note }}]</b>{% endif %}
             </div>
+            {% if pub.code_url or pub.website_url %}
+            <div class="publinks">
+              {% if pub.code_url %}<a href="{{ pub.code_url }}" target="_blank" rel="noopener noreferrer">[code]</a>{% endif %}
+              {% if pub.website_url %}<a href="{{ pub.website_url }}" target="_blank" rel="noopener noreferrer">[website]</a>{% endif %}
+            </div>
+            {% endif %}
           </div>
         </li>
         {% endfor %}
